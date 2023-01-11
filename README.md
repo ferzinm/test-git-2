@@ -5,3 +5,6 @@
 5. git log --oneline
 6. git push [rep_link] [branch_name] - загрузить на гитхаб
 7. git branch - узнать имя ветки
+8. git reset - удалить файл из stage
+9. git reset --hard - удалить все измение в файлах
+9. git diff - посмотреть изменения
