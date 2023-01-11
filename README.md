@@ -11,3 +11,4 @@
 11. git checkout [branck_name] - переключится на другую ветку
 12. git pull [rep_linp] [branch_name] - скачать изменение в ветке
 13. git branch -d [branch_name] - удалить ветку
+14. git merge [branch_name] - добавить изминения из другой ветки
