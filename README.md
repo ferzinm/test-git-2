@@ -9,3 +9,5 @@
 9. git reset --hard - удалить все измение в файлах
 10. git diff - посмотреть изменения
 11. git checkout [branck_name] - переключится на другую ветку
+12. git pull [rep_linp] [branch_name] - скачать изменение в ветке
+13. git branch -d [branch_name] - удалить ветку
