@@ -7,4 +7,5 @@
 7. git branch - узнать имя ветки
 8. git reset - удалить файл из stage
 9. git reset --hard - удалить все измение в файлах
-9. git diff - посмотреть изменения
+10. git diff - посмотреть изменения
+11. git checkout [branck_name] - переключится на другую ветку
